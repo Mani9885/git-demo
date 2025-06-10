@@ -6,6 +6,7 @@ public class Constant {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Maneesha");
+		System.out.println("Mani");
 
 	}
 
